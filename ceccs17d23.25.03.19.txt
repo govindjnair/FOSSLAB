@@ -1,0 +1,254 @@
+Script started on Monday 25 March 2019 09:12:36 AM IST
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sftp cs17d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> l[Kpwd
+Remote working directory: /home/cs17d23
+sftp> cs
+sftp> cd
+You must specify a path after a cd command.
+
+sftp> cs[Kd ..
+sftp> pwd
+Remote working directory: /home
+sftp> ls
+ask       cec       cs17d00   cs17d01   cs17d02   cs17d03   cs17d04   cs17d05   
+cs17d06   cs17d07   cs17d08   cs17d09   cs17d10   cs17d11   cs17d12   cs17d13   
+cs17d14   cs17d15   cs17d16   cs17d17   cs17d18   cs17d19   cs17d20   cs17d21   
+cs17d22   cs17d23   cs17d24   cs17d25   cs17d26   cs17d27   cs17d28   cs17d29   
+cs17d30   cs17d31   cs17d32   cs17d33   cs17d34   cs17d35   cs17d36   cs17d37   
+cs17d38   cs17d39   cs17d40   cs17d41   cs17d42   cs17d43   cs17d44   cs17d45   
+cs17d46   cs17d47   cs17d48   cs17d49   cs17d50   cs17d51   cs17d52   cs17d53   
+cs17d54   cs17d55   cs17d56   cs17d57   cs17d58   cs17d59   cs17d60   cs17d61   
+cs17d62   hari      ieeecec   
+sftp> cd cs17d23
+sftp> l[Kpwd
+Remote working directory: /home/cs17d23
+sftp> ssh -v
+Invalid command.
+
+sftp> 
+[1]+  Stopped                 sftp cs17d23@192.168.0.30
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ssh -v
+usage: ssh [-1246AaCfgKkMNnqsTtVvXxYy] [-b bind_address] [-c cipher_spec]
+           [-D [bind_address:]port] [-E log_file] [-e escape_char]
+           [-F configfile] [-I pkcs11] [-i identity_file]
+           [-L [bind_address:]port:host:hostport] [-l login_name] [-m mac_spec]
+           [-O ctl_cmd] [-o option] [-p port]
+           [-Q cipher | cipher-auth | mac | kex | key]
+           [-R [bind_address:]port:host:hostport] [-S ctl_path] [-W host:port]
+           [-w local_tun[:remote_tun]] [user@]hostname [command]
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ssh cs11[K7d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Mar 11 11:43:26 2019 from 192.168.0.117
+
+$ scp tast k2.sh 19  cs17d23@192.168.0.30                                 lpwd
+-sh: 1: lpwd: not found
+$ pwd
+/home/cs17d23
+$ ls
+examples.desktop  test.txt
+$ ^[[A    ^[[A^[[A^[[A            scpr    p task2.sh cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+task2.sh: No such file or directory
+$ ^Z^Z^X  
+$ ^C
+$ 
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sftp 192[K[K[K[K sh cs17d23@192.168.0.30[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kssh -vftp cs17d23@192.168.0.30[7Pping 192.168.0.214[10Pifconfigping 192.168.0.214sftp cs17d23@192.168.0.30sh -v[K[Ksftp [Kssh -vftp cs17d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> ls[K[Kpwd
+Remote working directory: /home/cs17d23
+sftp>  
+bye       cd        chdir     chgrp     chmod     chown     df        dir       
+exit      get       help      lcd       lchdir    lls       lmkdir    ln        
+lpwd      ls        lumask    mkdir     mget      mput      progress  put       
+pwd       quit      reget     rename    rm        rmdir     symlink   version   
+!         ?         
+
+[Ksftp>  put ta[K[K[K[K[Klpwd
+Local working directory: /home/s4d1/Desktop/test
+sftp> put task2.sh
+Uploading task2.sh to /home/cs17d23/task2.sh
+
+task2.sh                                        0%    0     0.0KB/s   --:-- ETA
+task2.sh                                      100% 2152     2.1KB/s   00:00    
+sftp> ls
+examples.desktop    task2.sh            test.txt            
+sftp> 
+[2]+  Stopped                 sftp cs17d23@192.168.0.30
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 38:d5:47:b8:da:9e  
+          inet6 addr: fe80::3ad5:47ff:feb8:da9e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:27691 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:9466 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:14674699 (14.6 MB)  TX bytes:1063394 (1.0 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:492 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:492 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:156168 (156.1 KB)  TX bytes:156168 (156.1 KB)
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ cd
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ ifc[K[K[Ksudo id[Kfconfig
+sudo: unable to resolve host CC2-28
+[sudo] password for s4d1: 
+s4d1 is not in the sudoers file.  This incident will be reported.
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 38:d5:47:b8:da:9e  
+          inet6 addr: fe80::3ad5:47ff:feb8:da9e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:27780 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:9524 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:14697548 (14.6 MB)  TX bytes:1074423 (1.0 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:500 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:500 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:156696 (156.6 KB)  TX bytes:156696 (156.6 KB)
+
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ ifconfig eth0 192.168.0.[K[K25.04[K[K4
+SIOCSIFADDR: Operation not permitted
+SIOCSIFFLAGS: Operation not permitted
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ sudo su
+sudo: unable to resolve host CC2-28
+[sudo] password for s4d1: 
+s4d1 is not in the sudoers file.  This incident will be reported.
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ ^X[Kexit
+There are stopped jobs.
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ exit
+
+Script done on Monday 25 March 2019 09:45:29 AM IST
+
+Script started on Monday 25 March 2019 11:11:37 AM IST
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ssh cs17d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Mar 25 11:06:17 2019 from 192.168.0.153
+
+$ scp cs.txt cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+cs.txt: No such file or directory
+$ scp a.txt cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+a.txt                                                                     0%    0     0.0KB/s   --:-- ETA
+a.txt                                                                   100%   12KB  12.3KB/s   00:00    
+$ ^[[A^[[2~         scp cs.txt cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+cs.txt: No such file or directory
+$ ^[[A    scp new.txt cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+new.txt: No such file or directory
+$ /home/s4d1/Desktop/test^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D^[[D                                                                                       scp /home/s4d1/Desktop/test/new.txt cs17d23@192.168.0.30:/home/cs17d23/
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+/home/s4d1/Desktop/test/new.txt: No such file or directory
+$ ^Z
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ifconfig
+eth0      Link encap:Ethernet  HWaddr 38:d5:47:b8:da:9e  
+          inet addr:192.168.0.153  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::3ad5:47ff:feb8:da9e/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:26016633 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:243180 errors:0 dropped:705 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:3551148347 (3.5 GB)  TX bytes:12618098 (12.6 MB)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:1068 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:1068 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:283445 (283.4 KB)  TX bytes:283445 (283.4 KB)
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sftp s4d1@19[K2.168.0.21492.168.0.214
+The authenticity of host '192.168.0.214 (192.168.0.214)' can't be established.
+ECDSA key fingerprint is 28:8f:c7:a4:44:78:f8:2f:b1:9c:cd:5d:86:64:78:48.
+Are you sure you want to continue connecting (yes/no)? yes
+Warning: Permanently added '192.168.0.214' (ECDSA) to the list of known hosts.
+
+s4d1@192.168.0.214's password: 
+Connected to 192.168.0.214.
+sftp> ls
+Desktop              Documents            Downloads            Music                Pictures             
+Public               Templates            

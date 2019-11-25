@@ -1,0 +1,1271 @@
+Script started on Thursday 04 April 2019 09:13:23 AM IST
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sudo apt-get update
+[sudo] password for s4d1: 
+
+
+0% [Working]
+            
+Ign http://dl.google.com stable InRelease
+
+            
+6% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+Hit http://packages.microsoft.com stable InRelease
+
+11% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting 
+11% [InRelease gpgv 3,181 B] [Waiting for headers] [Waiting for headers] [Waiti
+17% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting 
+                                                                               
+Hit http://dl.google.com stable Release.gpg
+
+23% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting 
+                                                                               
+Hit http://packages.microsoft.com stable/main amd64 Packages
+
+23% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting 
+23% [Packages 737 kB] [Waiting for headers] [Waiting for headers] [Waiting for 
+                                                                               
+Ign http://extras.ubuntu.com trusty InRelease
+
+29% [Packages 737 kB] [Waiting for headers] [Waiting for headers] [Waiting for 
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://dl.google.com stable Release
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Release gpgv 943 B] [Waiting for headers] [Waiting for headers] [Waiting 
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://extras.ubuntu.com trusty Release.gpg
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://dl.google.com stable/main amd64 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Packages 4,458 B] [Waiting for headers] [Waiting for headers] [Waiting fo
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Ign http://in.archive.ubuntu.com trusty InRelease
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://extras.ubuntu.com trusty Release
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Release gpgv 11.9 kB] [Waiting for headers] [Waiting for headers] [Waitin
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-updates InRelease
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [InRelease gpgv 65.9 kB] [Waiting for headers] [Waiting for headers] [Wait
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://extras.ubuntu.com trusty/main Sources
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Sources 0 B] [Waiting for headers] [Waiting for headers] [Waiting for hea
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports InRelease
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [InRelease gpgv 65.9 kB] [Waiting for headers] [Waiting for headers] [Wait
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://extras.ubuntu.com trusty/main amd64 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty Release.gpg
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Ign http://packages.microsoft.com stable/main Translation-en_IN
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://extras.ubuntu.com trusty/main i386 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Packages 0 B] [Waiting for headers] [Waiting for headers] [Waiting for he
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Ign http://packages.microsoft.com stable/main Translation-en
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-updates/main Sources
+
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Sources 2,305 kB] [Waiting for headers] [Waiting for headers] [Waiting fo
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-updates/restricted Sources
+
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Sources 35.5 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-updates/universe Sources
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Sources 1,064 kB] [Waiting for headers] [Waiting for headers] [Waiting fo
+                                                                               
+Hit http://security.ubuntu.com trusty-security InRelease
+
+100% [Sources 1,064 kB] [Waiting for headers] [Waiting for headers] [Waiting fo
+100% [Sources 1,064 kB] [InRelease gpgv 65.9 kB] [Waiting for headers] [Waiting
+100% [Sources 1,064 kB] [Waiting for headers] [Waiting for headers] [Waiting fo
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse Sources
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Sources 30.5 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Hit http://security.ubuntu.com trusty-security/main Sources
+
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Sources 860 kB] [Waiting for headers] [Waiting for headers] [Waiting for 
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Ign http://dl.google.com stable/main Translation-en_IN
+
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/main amd64 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Packages 8,163 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+Hit http://security.ubuntu.com trusty-security/restricted Sources
+
+100% [Packages 8,163 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+100% [Sources 30.3 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers] [Waiting
+                                                                               
+Ign http://dl.google.com stable/main Translation-en
+
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/restricted amd64 Packages
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 168 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://security.ubuntu.com trusty-security/universe Sources
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Sources 441 kB] [Waiting for headers] [Waiting for headers] [Waiting for 
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/universe amd64 Packages
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 3,084 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+Hit http://security.ubuntu.com trusty-security/multiverse Sources
+
+                                                                               
+100% [Packages 3,084 kB] [Waiting for headers] [Waiting for headers]
+                                                                    
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Sources 9,581 B] [Waiting for headers] [Waiting for headers] [Waiting for
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse amd64 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Packages 79.3 kB] [Waiting for headers] [Waiting for headers] [Waiting fo
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://security.ubuntu.com trusty-security/main amd64 Packages
+
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Packages 5,812 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/main i386 Packages
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 7,527 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+Hit http://security.ubuntu.com trusty-security/restricted amd64 Packages
+
+100% [Packages 7,527 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+100% [Packages 132 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Ign http://extras.ubuntu.com trusty/main Translation-en_IN
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/restricted i386 Packages
+
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 166 kB] [Waiting for headers] [Waiting for headers] [Waiting for
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://security.ubuntu.com trusty-security/universe amd64 Packages
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 1,759 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+100% [Waiting for headers] [Waiting for headers] [Waiting for headers]
+                                                                      
+Hit http://in.archive.ubuntu.com trusty-updates/universe i386 Packages
+
+                                                                      
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 2,957 kB] [Waiting for headers] [Waiting for headers] [Waiting f
+                                                                               
+Ign http://extras.ubuntu.com trusty/main Translation-en
+
+                                                                               
+100% [Packages 2,957 kB] [Waiting for headers] [Waiting for headers]
+                                                                    
+Hit http://security.ubuntu.com trusty-security/multiverse amd64 Packages
+
+100% [Packages 2,957 kB] [Waiting for headers] [Waiting for headers]
+                                                                    
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 18.0 kB] [Waiting for headers] [Waiting for headers]
+                                                                   
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse i386 Packages
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Packages 81.1 kB] [Waiting for headers] [Waiting for headers]
+                                                                   
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/main i386 Packages
+
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 5,209 kB] [Waiting for headers] [Waiting for headers]
+                                                                    
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/main Translation-en
+
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Translation-en 8,704 kB] [Waiting for headers] [Waiting for headers]
+                                                                          
+Hit http://security.ubuntu.com trusty-security/restricted i386 Packages
+
+100% [Translation-en 8,704 kB] [Waiting for headers] [Waiting for headers]
+                                                                          
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 131 kB] [Waiting for headers] [Waiting for headers]
+                                                                  
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/multiverse Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 32.4 kB] [Waiting for headers] [Waiting for headers]
+                                                                         
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/universe i386 Packages
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Packages 1,644 kB] [Waiting for headers] [Waiting for headers]
+                                                                    
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/restricted Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 28.6 kB] [Waiting for headers] [Waiting for headers]
+                                                                         
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/multiverse i386 Packages
+
+100% [Waiting for headers] [Waiting for headers]
+                                                
+100% [Packages 18.9 kB] [Waiting for headers] [Waiting for headers]
+                                                                   
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/main Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 7,536 kB] [Waiting for headers] [Waiting for headers]
+                                                                          
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/multiverse Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 8,632 B] [Waiting for headers] [Waiting for headers]
+                                                                         
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/restricted Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 26.0 kB] [Waiting for headers] [Waiting for headers]
+                                                                         
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://in.archive.ubuntu.com trusty-updates/universe Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 1,493 kB] [Waiting for headers] [Waiting for headers]
+                                                                          
+100% [Waiting for headers] [Waiting for headers]
+                                                
+Hit http://security.ubuntu.com trusty-security/universe Translation-en
+
+                                                
+100% [Waiting for headers]
+                          
+100% [Translation-en 912 kB] [Waiting for headers]
+                                                  
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/main Sources
+
+                          
+100% [Working]
+              
+100% [Sources 34.0 kB] [Waiting for headers]
+                                            
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Sources
+
+                          
+100% [Working]
+              
+100% [Sources 0 B] [Waiting for headers]
+                                        
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/universe Sources
+
+                          
+100% [Working]
+              
+100% [Sources 141 kB] [Waiting for headers]
+                                           
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Sources
+
+                          
+100% [Working]
+              
+100% [Sources 4,444 B] [Waiting for headers]
+                                            
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/main amd64 Packages
+
+                          
+100% [Working]
+              
+100% [Packages 59.1 kB] [Waiting for headers]
+                                             
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/restricted amd64 Packages
+
+                          
+100% [Working]
+              
+100% [Packages 0 B] [Waiting for headers]
+                                         
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/universe amd64 Packages
+
+                          
+100% [Working]
+              
+100% [Packages 220 kB] [Waiting for headers]
+                                            
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse amd64 Packages
+
+100% [Waiting for headers]
+                          
+100% [Packages 3,396 B] [Waiting for headers]
+                                             
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/main i386 Packages
+
+                          
+100% [Working]
+              
+100% [Packages 59.0 kB] [Waiting for headers]
+                                             
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/restricted i386 Packages
+
+100% [Waiting for headers]
+                          
+100% [Packages 0 B] [Waiting for headers]
+                                         
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/universe i386 Packages
+
+100% [Waiting for headers]
+                          
+100% [Packages 219 kB] [Waiting for headers]
+                                            
+100% [Waiting for headers]
+                          
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse i386 Packages
+
+                          
+100% [Working]                                                     10.1 MB/s 0s
+100% [Packages 3,341 B] [Waiting for headers]                      10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/main Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 28.1 kB] [Waiting for headers]                10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/multiverse Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 2,242 B] [Waiting for headers]                10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/restricted Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 0 B] [Waiting for headers]                    10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty-backports/universe Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 155 kB] [Waiting for headers]                 10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty Release
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Release gpgv 58.5 kB]                                        10.1 MB/s 0s
+100% [Working]                                                     10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main Sources
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Sources 5,000 kB] [Waiting for headers]                      10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted Sources
+
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Sources 22.9 kB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe Sources
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Sources 27.9 MB] [Waiting for headers]                       10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse Sources
+
+100% [Sources 27.9 MB] [Waiting for headers]                       10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main amd64 Packages
+
+100% [Sources 27.9 MB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Sources 711 kB] [Waiting for headers]                        10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 8,235 kB] [Waiting for headers]                     10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted amd64 Packages
+
+100% [Packages 8,235 kB]                                           10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 184 kB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe amd64 Packages
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Packages 31.7 MB] [Waiting for headers]                      10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse amd64 Packages
+
+100% [Packages 31.7 MB]                                            10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main i386 Packages
+
+100% [Packages 31.7 MB]                                            10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 664 kB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 8,205 kB] [Waiting for headers]                     10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted i386 Packages
+
+100% [Packages 8,205 kB]                                           10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 185 kB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe i386 Packages
+
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 31.7 MB] [Waiting for headers]                      10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse i386 Packages
+
+100% [Packages 31.7 MB]                                            10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Packages 674 kB] [Waiting for headers]                       10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/main Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 4,149 kB] [Waiting for headers]               10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/multiverse Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 409 kB] [Waiting for headers]                 10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/restricted Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 21.2 kB] [Waiting for headers]                10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Hit http://in.archive.ubuntu.com trusty/universe Translation-en
+
+100% [Working]                                                     10.1 MB/s 0s
+100% [Translation-en 18.6 MB] [Waiting for headers]                10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+100% [Waiting for headers]                                         10.1 MB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/main Translation-en_IN
+
+100% [Working]                                                     22.0 MB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/multiverse Translation-en_IN
+
+100% [Working]                                                     22.0 MB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/restricted Translation-en_IN
+
+100% [Working]                                                     22.0 MB/s 0s
+                                                                               
+Ign http://in.archive.ubuntu.com trusty/universe Translation-en_IN
+
+100% [Working]                                                     22.0 MB/s 0s
+                                                                               
+
+Reading package lists... 0%
+
+Reading package lists... 0%
+
+Reading package lists... 1%
+
+Reading package lists... 5%
+
+Reading package lists... 5%
+
+Reading package lists... 5%
+
+Reading package lists... 5%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 24%
+
+Reading package lists... 29%
+
+Reading package lists... 29%
+
+Reading package lists... 30%
+
+Reading package lists... 30%
+
+Reading package lists... 34%
+
+Reading package lists... 49%
+
+Reading package lists... 49%
+
+Reading package lists... 49%
+
+Reading package lists... 49%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 52%
+
+Reading package lists... 63%
+
+Reading package lists... 63%
+
+Reading package lists... 68%
+
+Reading package lists... 68%
+
+Reading package lists... 69%
+
+Reading package lists... 69%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 70%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 75%
+
+Reading package lists... 77%
+
+Reading package lists... 77%
+
+Reading package lists... 77%
+
+Reading package lists... 77%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 82%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 83%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 84%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 87%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 88%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 92%
+
+Reading package lists... 93%
+
+Reading package lists... 93%
+
+Reading package lists... 93%
+
+Reading package lists... 93%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 97%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 98%
+
+Reading package lists... 99%
+
+Reading package lists... Done
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sudo apt-get install nginx[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Ksftp [K[K[K[K[Ksftp cs17d23@192.168.0.2[K30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> pwd
+Remote working directory: /home/cs17d23
+sftp> ls
+a.txt               examples.desktop    task2.sh            test.txt            
+sftp> ^D
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ scp [K[K[K[Kcs17[K[K[K[Kscp cs17d23@192.168.0.30:/[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd /
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ scp cs17d23@192.168.0.30:/home[K[K[K[K[K/home/s4d1/Desktop/test/result.txt /home 
+
+[K[A]0;s4d1@CC2-28: /s4d1@CC2-28:/$ scp cs17d23@192.168.0.30:/home/s4d1/Desktop/test/result.txt /home/cs1723[K[Kd23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+scp: /home/s4d1/Desktop/test/result.txt: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ scp cs17d23@192.168.0.30:/home/s4d1/Desktop/test/result.txt /home/cs17d23[1P /home/cs17d23[1P /home/cs17d23[1P /home/cs17d23[1P /home/cs17d23[C /home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+scp: /home/s4d1/Desktop/test/result: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd test
+bash: cd: test: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cs [K[K[Kd [K[Kcd Desktop
+bash: cd: Desktop: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd test
+bash: cd: test: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd Dekstop
+bash: cd: Dekstop: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd /
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd [K[K[Kls
+[0m[01;34mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36minitrd.img[0m  [01;34mlib64[0m       [01;34mmedia[0m  [01;34mopt[0m   [01;34mroot[0m  [01;34msbin[0m  [01;34msys[0m  [01;34musr[0m  [01;36mvmlinuz[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;34mlib[0m         [01;34mlost+found[0m  [01;34mmnt[0m    [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd home
+]0;s4d1@CC2-28: /homes4d1@CC2-28:/home$ ls
+[0m[01;34mcec-lab2[0m  [01;34mfdp[0m  [01;34mpsc[0m  [01;34ms1c2[0m  [01;34ms2c3[0m  [01;34ms3c1[0m  [01;34ms3d1[0m  [01;34ms4c1[0m  [01;34ms4c41[0m  [01;34ms4d1[0m  [01;34ms4d2[0m  [01;34ms6b2[0m  [01;34ms6c2[0m  [01;34ms6d1[0m  [01;34ms6d2[0m  [01;34mtpc[0m  [01;34mtr[0m
+]0;s4d1@CC2-28: /homes4d1@CC2-28:/home$ cd s4d1
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ ls
+[0m[01;34mDesktop[0m    examples.desktop  [01;34mPublic[0m       S4D    s4d14.txt  theoutput.txt
+[01;34mDocuments[0m  [01;34mMusic[0m             result.txt   S4D~   s4d.txt    theoutput.txt~
+[01;34mDownloads[0m  [01;34mPictures[0m          result.txt~  [01;34ms4d14[0m  [01;34mTemplates[0m  [01;34mVideos[0m
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ cd Desktop
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ cd test
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ls
+25today.txt~             cs17d23@192.168.0.30  new.txt~       surprise.txt~  ull.txt~
+abc.txt~                 cs.txt                no-spaces.txt  [0m[01;32mtask2.sh[0m       Untitled Document~
+a.txt                    cs.txt~               qq.txt         today44.txt    uuu.txt
+ceccs17d23.25.03.19.txt  new.txt               result.txt     ull.txt        we.txt
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ scp result.txt cs17d23@192.168.0.30 [K:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+result.txt                                                                0%    0     0.0KB/s   --:-- ETA
+result.txt                                                              100%   44KB  43.6KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sftp cs17d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Connected to 192.168.0.30.
+sftp> pwd
+Remote working directory: /home/cs17d23
+sftp> ls
+a.txt                examples.desktop     result.txt           task2.sh             test.txt             
+sftp> ^D
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ 
+[K]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sftp cs17d23@192.168.0.30cp result.txt cs17d23@192.168.0.30:/home/cs17d23[C[C[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[1Pcs17d23@192.168.0.30:/home/cs17d23[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C/res[K[K[Ktsk2.shask2.sh[C[C[C[C[C[C /home/s4d1/[K
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+task2.sh                                                                  0%    0     0.0KB/s   --:-- ETA
+task2.sh                                                                100% 2152     2.1KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync txt.[K[K[Ka.txt[K[K[K[K[K[K/homr[Ke/jfof[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kls
+25today.txt~             cs17d23@192.168.0.30  new.txt~       surprise.txt~  ull.txt~
+abc.txt~                 cs.txt                no-spaces.txt  [0m[01;32mtask2.sh[0m       Untitled Document~
+a.txt                    cs.txt~               qq.txt         today44.txt    uuu.txt
+ceccs17d23.25.03.19.txt  new.txt               result.txt     ull.txt        we.txt
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync cs.txt zv[K[K-zvh[K[K[K[K[K[K[K[K[K[K[K-zvh cs17d232[K@192.169[K8.0.30 /home[K[K[K[K[Kcs.txt /home/cs17d23\
+> s[Kls
+rsync: mkdir "/home/cs17d23ls" failed: Permission denied (13)
+rsync error: error in file IO (code 11) at main.c(674) [Receiver=3.1.0]
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync -zvh cs17d23@192.168.0.30 cs.txt /home/cs17d23ls[C[1@ [1P[1@/[1P[1@:
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Krsync -zvh cs17d23@192.168.0.30: cs.txt /home/cs17d23ls[1@/[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K -zvh cs.txt 192.1[K[K[K[K[Kcs17d23@192.1678[K[K8.0.2[K30 [K:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+cs.txt
+
+sent 1.55K bytes  received 35 bytes  451.71 bytes/sec
+total size is 13.39K  speedup is 8.47
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync -zvh cs17d23@192.168.0.0[K30 [K:/home/cs17d23/task2.sh /home/s4d1/Desktop
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+task2.sh
+
+sent 43 bytes  received 664 bytes  128.55 bytes/sec
+total size is 2.15K  speedup is 3.04
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ cd /
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ ssh cs17d23[K3
+[K]0;s4d1@CC2-28: /s4d1@CC2-28:/$ ssh cs17d23/home/s4d1/Desktop/test
+[K]0;s4d1@CC2-28: /s4d1@CC2-28:/$ ssh cs17d23/home/s4d1/Desktop/test/home/s4d1/Desktop/test
+[K]0;s4d1@CC2-28: /s4d1@CC2-28:/$ ssh cs17d23/home/s4d1/Desktop/test/home/s4d1/Desktop/test[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd Desktop
+bash: cd: Desktop: No such file or directory
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd[K[Kls
+[0m[01;34mbin[0m   [01;34mcdrom[0m  [01;34metc[0m   [01;36minitrd.img[0m  [01;34mlib64[0m       [01;34mmedia[0m  [01;34mopt[0m   [01;34mroot[0m  [01;34msbin[0m  [01;34msys[0m  [01;34musr[0m  [01;36mvmlinuz[0m
+[01;34mboot[0m  [01;34mdev[0m    [01;34mhome[0m  [01;34mlib[0m         [01;34mlost+found[0m  [01;34mmnt[0m    [01;34mproc[0m  [01;34mrun[0m   [01;34msrv[0m   [30;42mtmp[0m  [01;34mvar[0m
+]0;s4d1@CC2-28: /s4d1@CC2-28:/$ cd /home/s4d1/Desktop
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ aa.txt[K[K[K[K[K[Kscript aa.tct
+Script started, file is aa.tct
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ aa.txt
+aa.txt: command not found
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ script .[Kaa.txt
+Script started, file is aa.txt
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ scpr[K -r /home[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ scp -r /home/s4d1/Desktop/cs232-master cs17d23@192.168.0.30:/home/cs17d23/[K[Kcd[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K
+
+Script started on Thursday 04 April 2019 10:50:51 AM IST
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ c [K[Kd[Kcd Desktop
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ cd test
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ls
+25today.txt~             cs.txt         qq.txt         ull.txt
+abc.txt~                 cs.txt~        result.txt     ull.txt~
+a.txt                    new.txt        surprise.txt~  Untitled Document~
+ceccs17d23.25.03.19.txt  new.txt~       [0m[01;32mtask2.sh[0m       uuu.txt
+cs17d23@192.168.0.30     no-spaces.txt  today44.txt    we.txt
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ /home/s4d1/Desktop/test[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K/home/s4d1/Desktop/test[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kscp result.txt cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+result.txt                                      0%    0     0.0KB/s   --:-- ETA
+result.txt                                    100%   44KB  43.6KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ ssh cs17d23@192.168.0.30 [K
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Mon Mar 25 11:15:18 2019 from 192.168.0.153
+
+$ ls
+a.txt  cs.txt  examples.desktop  result.txt  task2.sh  test.txt
+$ cd ..
+$ ls
+ask	 cs17d06  cs17d14  cs17d22  cs17d30  cs17d38  cs17d46  cs17d54	cs17d62
+cec	 cs17d07  cs17d15  cs17d23  cs17d31  cs17d39  cs17d47  cs17d55	hari
+cs17d00  cs17d08  cs17d16  cs17d24  cs17d32  cs17d40  cs17d48  cs17d56	ieeecec
+cs17d01  cs17d09  cs17d17  cs17d25  cs17d33  cs17d41  cs17d49  cs17d57
+cs17d02  cs17d10  cs17d18  cs17d26  cs17d34  cs17d42  cs17d50  cs17d58
+cs17d03  cs17d11  cs17d19  cs17d27  cs17d35  cs17d43  cs17d51  cs17d59
+cs17d04  cs17d12  cs17d20  cs17d28  cs17d36  cs17d44  cs17d52  cs17d60
+cs17d05  cs17d13  cs17d21  cs17d29  cs17d37  cs17d45  cs17d53  cs17d61
+$ cd cs17d23
+$ ls -l
+total 96
+-rw-r--r-- 1 cs17d23 cs17d 12592 Mar 25 11:18 a.txt
+-rw-r--r-- 1 cs17d23 cs17d 13395 Apr  4 10:15 cs.txt
+-rw-r--r-- 1 cs17d23 cs17d  8980 Apr 20  2016 examples.desktop
+-rw-r--r-- 1 cs17d23 cs17d 44611 Apr  4 10:56 result.txt
+-rwxr--r-- 1 cs17d23 cs17d  2152 Mar 25 09:37 task2.sh
+-rw-r--r-- 1 cs17d23 cs17d    12 Mar 11 11:47 test.txt
+$ rm result.txt
+$ ls
+a.txt  cs.txt  examples.desktop  task2.sh  test.txt
+$ 
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ scp cs17d23@192.168.0.30:/home/cs17d23/task2.sh /hom 
+e/s4d1/Desktp
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+task2.sh                                        0%    0     0.0KB/s   --:-- ETA
+task2.sh                                      100% 2152     2.1KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ cd ..
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ ls
+[0m[01;34msh[0m  [01;32mtask2.sh[0m  [01;34mtest[0m  [01;34mtest1[0m  [01;34mtest_3[0m  [01;34mtest 4[0m  test.txt
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ rs[K[Kcd ts[Kest
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync -zvh[K[K[K[K[K[K[K[K[K[Krsync -zvh cs.txt cs17d23@192.168.0.30:/home/cs17d23 
+[A
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+cs.txt
+
+sent 79 bytes  received 155 bytes  66.86 bytes/sec
+total size is 13.39K  speedup is 57.24
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ sh[Ksh cs17d23@192.168.0.30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Thu Apr  4 10:57:18 2019 from 192.168.0.220
+
+$ pwd
+/home/cs17d23
+$ lz s
+a.txt  cs.txt  examples.desktop  task2.sh  test.txt
+$ lpwd
+-sh: 3: lpwd: not found
+$ 
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ rsync -zvh cs17d23@192.168.0.30:/home/cs17d23/task2. 
+sh /home/s4d1/Desktop
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+task2.sh
+
+sent 67 bytes  received 81 bytes  42.29 bytes/sec
+total size is 2.15K  speedup is 14.54
+]0;s4d1@CC2-28: ~/Desktop/tests4d1@CC2-28:~/Desktop/test$ dc[K[Kcd ..
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ ls
+[0m[01;34msh[0m  [01;32mtask2.sh[0m  [01;34mtest[0m  [01;34mtest1[0m  [01;34mtest_3[0m  [01;34mtest 4[0m  test.txt
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ exit
+
+Script done on Thursday 04 April 2019 11:01:33 AM IST
+Script started on Thursday 04 April 2019 11:11:22 AM IST
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ scpr[K -r /home[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ scp -r /home/s4d1/Desktop/cs232-master cs17d23@192.168.0.30:/home/cs17d23/[K[Kcd[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd Desktop
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ scp -r /home/s4d1/Desktop/cs232-master cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+ceccs17d23.25.03.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.25.03.19.txt                                                 100%   11KB  10.8KB/s   00:00    
+
+ceccs17d2311.03.19.txt                                                    0%    0     0.0KB/s   --:-- ETA
+ceccs17d2311.03.19.txt                                                  100%  106KB 106.3KB/s   00:00    
+
+task2.sh                                                                  0%    0     0.0KB/s   --:-- ETA
+task2.sh                                                                100% 2152     2.1KB/s   00:00    
+
+ceccs17d23.25.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.25.02.19.txt                                                 100%  631KB 631.3KB/s   00:00    
+
+hub_lan.txt                                                               0%    0     0.0KB/s   --:-- ETA
+hub_lan.txt                                                             100%   40KB  40.1KB/s   00:00    
+
+ceccs17d23.04.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.04.02.19.txt                                                 100%   81KB  81.1KB/s   00:00    
+
+task4.txt                                                                 0%    0     0.0KB/s   --:-- ETA
+task4.txt                                                               100% 5465     5.3KB/s   00:00    
+
+ceccs17d23.11.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.11.02.19.txt                                                 100%  449KB 448.5KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ ssh cs17d23@192.168.0.2[K30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Thu Apr  4 11:03:40 2019 from 192.168.0.220
+
+$ pwd
+/home/cs17d23
+$ ls
+a.txt  cs232-master  cs.txt  examples.desktop  task2.sh  test.txt
+$ ls c    cd cs232-master
+$ ls
+ceccs17d23.04.02.19.txt  ceccs17d2311.03.19.txt   ceccs17d23.25.03.19.txt  task2.sh
+ceccs17d23.11.02.19.txt  ceccs17d23.25.02.19.txt  hub_lan.txt		   task4.txt
+$ 
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ exit
+
+Script done on Thursday 04 April 2019 11:24:15 AM IST
+
+
+Script started on Thursday 04 April 2019 11:11:22 AM IST
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ scpr[K -r /home[K[K[K[K[K[K[K[K[K[K[K[Kcd ..
+]0;s4d1@CC2-28: ~s4d1@CC2-28:~$ scp -r /home/s4d1/Desktop/cs232-master cs17d23@192.168.0.30:/home/cs17d23/[K[Kcd[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd Desktop
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ scp -r /home/s4d1/Desktop/cs232-master cs17d23@192.168.0.30:/home/cs17d23
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+
+ceccs17d23.25.03.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.25.03.19.txt                                                 100%   11KB  10.8KB/s   00:00    
+
+ceccs17d2311.03.19.txt                                                    0%    0     0.0KB/s   --:-- ETA
+ceccs17d2311.03.19.txt                                                  100%  106KB 106.3KB/s   00:00    
+
+task2.sh                                                                  0%    0     0.0KB/s   --:-- ETA
+task2.sh                                                                100% 2152     2.1KB/s   00:00    
+
+ceccs17d23.25.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.25.02.19.txt                                                 100%  631KB 631.3KB/s   00:00    
+
+hub_lan.txt                                                               0%    0     0.0KB/s   --:-- ETA
+hub_lan.txt                                                             100%   40KB  40.1KB/s   00:00    
+
+ceccs17d23.04.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.04.02.19.txt                                                 100%   81KB  81.1KB/s   00:00    
+
+task4.txt                                                                 0%    0     0.0KB/s   --:-- ETA
+task4.txt                                                               100% 5465     5.3KB/s   00:00    
+
+ceccs17d23.11.02.19.txt                                                   0%    0     0.0KB/s   --:-- ETA
+ceccs17d23.11.02.19.txt                                                 100%  449KB 448.5KB/s   00:00    
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ ssh cs17d23@192.168.0.2[K30
+.
+              |
+.  .    . .-. | .-..-. .--.--. .-.
+ \  \  / (.-' |(  (   )|  |  |(.-'
+  `' `'   `--'` `-'`-' '  '  ` `--'
+cs17d23@192.168.0.30's password: 
+Welcome to elementary OS 0.4.1 Loki (GNU/Linux 4.13.0-32-generic x86_64)
+
+ * Website:  http://elementary.io/
+
+278 packages can be updated.
+0 updates are security updates.
+
+Last login: Thu Apr  4 11:03:40 2019 from 192.168.0.220
+
+$ pwd
+/home/cs17d23
+$ ls
+a.txt  cs232-master  cs.txt  examples.desktop  task2.sh  test.txt
+$ ls c    cd cs232-master
+$ ls
+ceccs17d23.04.02.19.txt  ceccs17d2311.03.19.txt   ceccs17d23.25.03.19.txt  task2.sh
+ceccs17d23.11.02.19.txt  ceccs17d23.25.02.19.txt  hub_lan.txt		   task4.txt
+$ 
+Connection to 192.168.0.30 closed.
+
+]0;s4d1@CC2-28: ~/Desktops4d1@CC2-28:~/Desktop$ exit
+
+Script done on Thursday 04 April 2019 11:24:15 AM IST
+
